@@ -1,0 +1,4 @@
+//has personal info
+.env
+//can just install them with npm init
+node_modules
